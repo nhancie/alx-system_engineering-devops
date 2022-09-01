@@ -1,2 +1,2 @@
-#!/binn/bash
+#!/bin/bash
 chmod 114 hello
